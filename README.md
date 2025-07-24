@@ -3,7 +3,8 @@
 
 AssembleValidatorTest Code Coverage결과
 
-<img width="543" height="386" alt="image" src="https://github.com/user-attachments/assets/0a373c62-73e0-484c-a7e4-b4cc6600ea6a" />
+<img width="542" height="393" alt="image" src="https://github.com/user-attachments/assets/8a739c18-7f3c-48bc-b453-69486677969f" />
+
 
 AssembleTest Code Coverage 결과
 
