@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class Assemble {
     private static final String CLEAR_SCREEN = "\033[H\033[2J";
 
+
     private static final int CAR_TYPE = 0;
     private static final int ENGINE = 1;
     private static final int BRAKE = 2;
