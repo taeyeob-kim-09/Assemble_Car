@@ -35,7 +35,7 @@ public class Assemble {
                 System.out.println("바이바이");
                 break;
             }
-
+            //테스트 commit용
             int answer;
             try {
                 answer = Integer.parseInt(input);
